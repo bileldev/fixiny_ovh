@@ -1,0 +1,7 @@
+[framework]
+version=20
+
+[deployment]
+engine=git
+engine-version=0
+path=frontend
